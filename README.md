@@ -1,5 +1,8 @@
 # Stretchable-Electronics-Adaptive-Design
-This repository provides code to simulate and analyze stretchable systems with microstructured conductivity variations, modeling their electrical response under strain using advanced resistance calculations, shortest-path optimizations, and microstructure design algorithms for improved computational efficiency.
+This repository provides code to simulate and analyze stretchable systems with microstructured conductivity variations, modeling their electrical response under strain using advanced resistance calculations, shortest-path optimizations, and microstructure design algorithms for improved computational efficiency.For reference to published work please see:
+
+Louis Martin-Monier et al. ,Novel insights into the design of stretchable electrical systems. Science Advances .7,eabf7558(2021).
+https://www.science.org/doi/10.1126/sciadv.abf7558
 
 **Framework** 
 
